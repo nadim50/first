@@ -1,0 +1,73 @@
+
+### Heading Tag -  <h1></h1> - 6 
+### Anchor Tag -   <a href=""></a>
+### Paragrap Tag - <p> </p>
+### Strong Tag  -  <Strong> </Strong>
+### Image Tag -    <img src="" alt="">
+### UnOrderList-   <ul></ul>
+### OrderList-     <ol></ol>
+### List -         <li></li>
+### Form -         <form></form>
+### Input-         <input type="">
+### Break line -   <br>
+### UnderLine- 
+### Bold -         <b></b>
+### Italic-        <i></i>
+### Button -       <button></button>
+### Divison -      <div> </div>
+### Horizontal -   <hr> 
+### Link_favicon - <link rel="" href="photo_source" type="">
+### Mark - <mark></mark>
+### Delete - <del></del>
+### Inserted -<ins></ins>
+### Code - <code> </code>
+
+Table:
+
+## Table - <table> </table>
+## Table row - <tr> </tr>
+## Table header - <th> </th>
+## Table data - <td> </td>
+
+
+### selec - <select></select>
+### option - <option> </option>
+
+### video- <video>
+                      
+                      <source src="yy.mp4">
+           
+           </video>
+
+
+ ### audio- <audio>
+                      
+                      <source src="yy.mp4">
+           
+           </audio>
+
+###    youtube video -  <iframe> 
+
+                                   width="344"
+                                   height="790"
+                                   src="link"
+
+
+                        </iframe>        
+
+
+
+### <input type="text" list="countrylist">
+   
+<datalist id="countrylist">
+ 
+        <option value="America">
+        <option value="Amiaba">   
+        <option value="Australia">
+        <option value="Africa">
+
+
+ </datalist>
+
+
+ # imoji add - <p> &#128507 </p>
